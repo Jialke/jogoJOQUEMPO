@@ -1,0 +1,1 @@
+Trabalho Discente Efetivo 1 de Raciocínio Algoritmico, desenvolvido com o objetivo de criar um jogo de joquempo com 3 modos de execução: Jogador X Jogador, Jogador X Computador e Computador X Computador
